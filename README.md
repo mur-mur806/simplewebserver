@@ -45,7 +45,7 @@ content = """
         <title>device</title>
     </head>
     <body>
-        <h1 align="center">Device specification-25016127</h1>
+        <h1 align="center">Device specification-25016797</h1>
         <br>
         <center>
         <table border="3" cellspacing="5" callpadding="10" width="400" height="300">
